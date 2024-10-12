@@ -2,11 +2,11 @@
 
 Untuk cara kerja program dari inventaris barang adalah sebagai berikut:
 
-Pertama user dapan memasukkan nama
+Pertama user dapan memasukkan nama.
    
 ![image](https://github.com/user-attachments/assets/16fe8c16-82ff-4c03-b6eb-6a5f1efc0ceb)
    
-Jika sudah memasukkan nama user akan diarahkan ke menu inventaris barang
+Jika sudah memasukkan nama user akan diarahkan ke menu inventaris barang.
    
 ![image](https://github.com/user-attachments/assets/be2b869d-ac25-4ba1-843a-292f59276f74)
 
@@ -24,7 +24,7 @@ Di menu inventaris barang terdapat:
 
 2. Update Stok Barang
 
-   Di menu update stok barang user hanya dapat update stok barang
+   Di menu update stok barang user hanya dapat update stok barang.
 
    ![image](https://github.com/user-attachments/assets/5f0df3fa-9059-4187-8d0c-c8477a7076c9)
 
@@ -46,4 +46,7 @@ Di menu inventaris barang terdapat:
 
 7. Keluar
 
-   Menu keluar berfungsi untuk menghentikan program
+   Menu keluar berfungsi untuk menghentikan program.
+   
+   ![image](https://github.com/user-attachments/assets/5e9426bc-79b5-494e-8564-8ea64de980a1)
+
