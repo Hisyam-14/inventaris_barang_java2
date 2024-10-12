@@ -22,6 +22,12 @@ Di menu inventaris barang terdapat:
 
    ![image](https://github.com/user-attachments/assets/b0e270ff-e797-43fa-87e7-fcfb33135fd2)
 
+   Jika yang diinput tidak sesuai maka akan menampilkan error sebagai berikut:
+
+   a. ![image](https://github.com/user-attachments/assets/4d3bcb29-f032-416e-bf73-e22e094c39a2)
+
+   b. ![image](https://github.com/user-attachments/assets/02d75989-4be4-450c-9c5b-81ec6755d9a4)
+
 2. Update Stok Barang
 
    Di menu update stok barang user hanya dapat update stok barang.
