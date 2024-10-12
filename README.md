@@ -24,11 +24,11 @@ Di menu inventaris barang terdapat:
 
    Jika yang diinput tidak sesuai maka akan menampilkan error sebagai berikut:
 
-   a. Jika jenis barang yang diinput kurang dari 1.
+   - Jika jenis barang yang diinput kurang dari 1.
    
       ![image](https://github.com/user-attachments/assets/4d3bcb29-f032-416e-bf73-e22e094c39a2)
 
-   b. Jika ID yang diinput kurang dari 1.
+   - Jika ID yang diinput kurang dari 1.
    
       ![image](https://github.com/user-attachments/assets/02d75989-4be4-450c-9c5b-81ec6755d9a4)
 
