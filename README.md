@@ -1,4 +1,4 @@
-# CARA KERJA PROGRAM
+# **CARA KERJA PROGRAM**
 
 Untuk cara kerja program dari inventaris barang adalah sebagai berikut:
 
@@ -12,7 +12,7 @@ Jika sudah memasukkan nama user akan diarahkan ke menu inventaris barang.
 
 Di menu inventaris barang terdapat:
 
-1. Tambah Barang
+1. **Tambah Barang**
 
    Di menu tambah barang user akan diminta untuk memilih jenis barang yang mau diinput, kemudian user diminta memasukkan ID, nama barang, stok barang. Jika jenis barang yang diinput elektronik maka user akan diminta input watt dari barang elektronik.
 
@@ -26,13 +26,13 @@ Di menu inventaris barang terdapat:
 
    a. Jika jenis barang yang diinput kurang dari 1.
    
-      ![image](https://github.com/user-attachments/assets/4d3bcb29-f032-416e-bf73-e22e094c39a2)
+       ![image](https://github.com/user-attachments/assets/4d3bcb29-f032-416e-bf73-e22e094c39a2)
 
    b. Jika ID yang diinput kurang dari 1.
    
-      ![image](https://github.com/user-attachments/assets/02d75989-4be4-450c-9c5b-81ec6755d9a4)
+       ![image](https://github.com/user-attachments/assets/02d75989-4be4-450c-9c5b-81ec6755d9a4)
 
-3. Update Stok Barang
+3. **Update Stok Barang**
 
    Di menu update stok barang user hanya dapat update stok barang.
 
@@ -40,7 +40,7 @@ Di menu inventaris barang terdapat:
 
    ![image](https://github.com/user-attachments/assets/082e2e1d-443d-423b-bc85-e86b8fad02b2)
 
-4. Hapus Barang
+4. **Hapus Barang**
 
    Di menu hapus barang user dapat input ID barang yang mau dihapus.
    
@@ -48,13 +48,13 @@ Di menu inventaris barang terdapat:
 
    ![image](https://github.com/user-attachments/assets/e3315fcc-cce7-423b-9b04-c966975c9168)
 
-6. Tampilkan Semua Barang
+6. **Tampilkan Semua Barang**
 
    Di menu tampilkan semua barang berfungsi untuk menampilkan barang - barang yang sudah diinput.
 
    ![image](https://github.com/user-attachments/assets/41c53782-66eb-4d28-9c8e-b4340f4ea83b)
 
-7. Keluar
+7. **Keluar**
 
    Menu keluar berfungsi untuk menghentikan program.
    
