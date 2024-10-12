@@ -1,1 +1,1 @@
-*asd*
+#CARA KERJA PROGRAM
