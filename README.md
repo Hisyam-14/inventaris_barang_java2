@@ -13,11 +13,37 @@ Jika sudah memasukkan nama user akan diarahkan ke menu inventaris barang
 Di menu inventaris barang terdapat:
 
 1. Tambah Barang
-   Di menu tambah barang user akan diminta untuk memilih jenis barang yang mau diinput, kemudian user diminta memasukkan ID, nama barang, stok barang. Jika jenis barang yang diinput elektronik maka user akan diminta input watt dari barang elektronik, jika jenis barang yang diinput perabot maka user akan diminta input bahan dari barang perabot.
+
+   Di menu tambah barang user akan diminta untuk memilih jenis barang yang mau diinput, kemudian user diminta memasukkan ID, nama barang, stok barang. Jika jenis barang yang diinput elektronik maka user akan diminta input watt dari barang elektronik.
 
    ![image](https://github.com/user-attachments/assets/06edec7b-5f99-4458-84d2-585b49f68519)
 
+   jika jenis barang yang diinput perabot maka user akan diminta input bahan dari barang perabot.
+
+   ![image](https://github.com/user-attachments/assets/b0e270ff-e797-43fa-87e7-fcfb33135fd2)
+
 2. Update Stok Barang
-3. Hapus Barang
-4. Tampilkan Semua Barang
-5. Keluar
+
+   Di menu update stok barang user hanya dapat update stok barang
+
+   ![image](https://github.com/user-attachments/assets/5f0df3fa-9059-4187-8d0c-c8477a7076c9)
+
+   ![image](https://github.com/user-attachments/assets/082e2e1d-443d-423b-bc85-e86b8fad02b2)
+
+4. Hapus Barang
+
+   Di menu hapus barang user dapat input ID barang yang mau dihapus.
+   
+   ![image](https://github.com/user-attachments/assets/a90fd89c-2943-45e2-9a08-94b712d6c191)
+
+   ![image](https://github.com/user-attachments/assets/e3315fcc-cce7-423b-9b04-c966975c9168)
+
+6. Tampilkan Semua Barang
+
+   Di menu tampilkan semua barang berfungsi untuk menampilkan barang - barang yang sudah diinput.
+
+   ![image](https://github.com/user-attachments/assets/41c53782-66eb-4d28-9c8e-b4340f4ea83b)
+
+7. Keluar
+
+   Menu keluar berfungsi untuk menghentikan program
